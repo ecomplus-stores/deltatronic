@@ -16,7 +16,7 @@
   "contacts": {
     "title": "Contatos",
     "phone_wpp": true,
-    "socials": true,
+    "socials": false,
     "email": true,
     "address": true
   },
@@ -27,13 +27,13 @@
     }
   ],
   "payment_methods": {
-    "pix": true,
-    "visa": true,
-    "mastercard": true,
-    "elo": true,
-    "amex": true,
-    "hipercard": true,
-    "boleto": true
+    "pix": false,
+    "visa": false,
+    "mastercard": false,
+    "elo": false,
+    "amex": false,
+    "hipercard": false,
+    "boleto": false
   },
   "credits": ""
 }
