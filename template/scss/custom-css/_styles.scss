@@ -30,3 +30,27 @@
   }
   
 }
+.dx-caret {
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    border-top: 6px solid #000;
+    display: inline-block;
+    vertical-align: middle;
+}
+.header__submenu {
+    margin-top: .8rem !important;
+}
+.header__category:hover {
+    background: none !important;
+    border-bottom: 2px solid #e00000 !important;
+}  
+@media(min-width: 767px) {
+    #banner-secundario .banner:first-child {
+        padding-bottom: 2.2rem
+      }
+}
+
+  .order-info__toggle {
+  display: none !important
+  }
+  

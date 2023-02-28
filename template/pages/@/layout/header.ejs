@@ -279,6 +279,7 @@ const fullWidthSubmenu = header.full_width_submenu
                     : `onclick="toggleSidenav('${slug}')"` %>
                 >
                   <%= name %>
+                  <%- hasMegamenu ? '<i class="dx-caret"></i>' : '' %>
                 </a>
                 <%- $categoryLink %>
                 <%  if (slug && hasMegamenu) { %>
