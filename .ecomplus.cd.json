@@ -1,5 +1,5 @@
 {
-  "trigger": "6400dde78930495030d42a3f",
+  "trigger": "6400debe8930495030d42d28",
   "resource": "products",
-  "slug": "10gbase-zr-sfp-ch31-dwdm-80km-100ghz-eml-laser-155252nm-ddm-smf-lc-duplex-transceptor-miljet"
+  "slug": "10gbase-zr-sfp-ch30-dwdm-80km-100ghz-eml-laser-155333nm-ddm-smf-lc-duplex-transceptor-miljet,10gbase-zr-sfp-ch29-dwdm-80km-100ghz-eml-laser-155413nm-ddm-smf-lc-duplex-transceptor-miljet,10gbase-zr-sfp-ch28-dwdm-80km-100ghz-eml-laser-155494nm-ddm-smf-lc-duplex-transceptor-miljet"
 }
