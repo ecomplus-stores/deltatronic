@@ -1,5 +1,5 @@
 {
-  "trigger": "6400d5418930495030d408d9",
+  "trigger": "6400d5978930495030d40a0d",
   "resource": "products",
-  "slug": "10gbase-bxu-sfp-bidi-tx1490rx1550nm-80km-lc-ddm-transceptor-optico-miljet"
+  "slug": "10gbase-zr-sfp-ch42-dwdm-80km-100ghz-eml-laser-154373nm-ddm-smf-lc-duplex-transceptor-miljet,10gbase-zr-sfp-ch41-dwdm-80km-100ghz-eml-laser-154453nm-ddm-smf-lc-duplex-transceptor-miljet"
 }
