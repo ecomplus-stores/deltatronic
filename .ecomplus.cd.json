@@ -1,5 +1,5 @@
 {
-  "trigger": "6400d0728930495030d3f7a5",
+  "trigger": "6400d0d48930495030d3f8b0",
   "resource": "products",
-  "slug": "40gbase-univ-qsfp-lx4-1310nm-2km-mmsmf-lc-ddm-duplex-transceptor-optico-miljet,40gbase-csr4-qsfp-850nm-400m-mmf-mtpmpo-ddm-transceptor-optico-miljet,cisco-qsfp-40g-sr-bd-850nm-150m-mmf-lc-duplex-v2-10-2945-02-transceptor-optico,10gbase-zr-sfp-ch38-dwdm-80km-100ghz-eml-laser-154692nm-ddm-smf-lc-duplex-transceptor-miljet"
+  "slug": "10gbase-zr-sfp-ch39-dwdm-80km-100ghz-eml-laser-154612nm-ddm-smf-lc-duplex-transceptor-miljet,kit-par-10gbase-zr-sfp-bidi-100km-lc-dom-transceptores-opticos-miljet"
 }
