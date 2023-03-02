@@ -1,5 +1,5 @@
 {
-  "trigger": "6400f1618930495030d451b4",
+  "trigger": "6400f22d8930495030d45351",
   "resource": "products",
-  "slug": "10gbase-zr-sfp-1550nm-80km-smf-lc-ddm-duplex-transceptor-optico-miljet"
+  "slug": "10gbase-er-sfp-1550nm-40km-smf-lc-ddm-duplex-transceptor-optico-miljet,10gbase-lr-sfp-1310nm-20km-smf-lc-ddm-duplex-transceptor-optico-miljet"
 }
