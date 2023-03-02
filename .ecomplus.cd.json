@@ -1,5 +1,5 @@
 {
-  "trigger": "6400f0108930495030d44f3c",
+  "trigger": "6400f06b8930495030d4501e",
   "resource": "products",
-  "slug": "10gbase-bxu-sfp-bidi-tx1270rx1330nm-10km-lc-ddm-transceptor-optico-miljet"
+  "slug": "10gbase-ezr-sfp-1550nm-cmladp-120km-smf-lc-ddm-duplex-transceptor-optico-miljet,10gbase-zr-sfp-1550nm-100km-smf-lc-ddm-duplex-transceptor-optico-miljet"
 }
