@@ -107,8 +107,69 @@
 .product-card__buy.fade {
   opacity: 1;
 }
-.cart-item__prices, .minicart__summary, .cart__summary-row {
+.cart-item__prices, .minicart__summary, .cart__summary-row, .checkout__shipping,.shipping-calculator__services, .shipping-calculator.cart__shipping, .discount-applier__coupon-btn, .payment__total, .summary__amount, .discount-applier, .order-info__shipping-freight, .order-info__payment, .order-info__buy-again, .orders-list__amount {
   display: none !important;
 }
+.cart__btn-back {
+  font-size: 0;
+  .i-arrow-left {
+    font-size: 1rem !important;
+  }
+  &::after {
+    content: 'Continuar cotando';
+    font-size: 1rem !important;
+  }
+}
+.cart__btn-checkout {
+  font-size: 0;
+  .mr-1 {
+    font-size: .9rem !important;
+  }
+  &::after {
+    content: 'Finalizar cotação';
+    font-size: 1rem !important;
+  }
+}
+.checkout__step:nth-child(2) {
+  font-size: 0;
+  small, &::before, &::after {
+    font-size: .8rem !important;
+  }
+  &::after {
+    content: 'Cadastro para envio';
+  }
+}
+#storefront-app h1 {
+  font-size: 0 !important;
+  &::after, &::before {
+    font-size: 2rem !important;
+  }
+  &::after {
+    content: 'Minha Cotação';
+  }
+}
 
-  
+.payment__total + button {
+  font-size: 0;
+  .i-check, &::after {
+    font-size: .765625rem !important;
+  }
+  &::after {
+    content: 'Fechar cotação';
+  }
+}
+.btn-block.payment__pay + hr + button {
+  display: none;
+}
+
+.order-info__payment-value {
+  strong {
+    display: none;
+  }
+}
+.picture.loaded + div {
+  font-size: 0;
+  span, small {
+    font-size: .675rem !important;
+  }
+}
