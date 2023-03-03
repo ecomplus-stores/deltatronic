@@ -107,7 +107,7 @@
 .product-card__buy.fade {
   opacity: 1;
 }
-.cart-item__prices, .minicart__summary, .cart__summary-row, .checkout__shipping,.shipping-calculator__services, .shipping-calculator.cart__shipping, .discount-applier__coupon-btn, .payment__total, .summary__amount, .discount-applier, .order-info__shipping-freight, .order-info__payment, .order-info__buy-again, .orders-list__amount {
+.cart-item__prices, .minicart__summary, .cart__summary-row, .checkout__shipping,.shipping-calculator__services, .shipping-calculator.cart__shipping, .discount-applier__coupon-btn, .payment__total, .summary__amount, .discount-applier, .order-info__shipping-freight, .order-info__payment, .order-info__buy-again, .orders-list__amount, #product-block .shipping-calculator {
   display: none !important;
 }
 .cart__btn-back {
