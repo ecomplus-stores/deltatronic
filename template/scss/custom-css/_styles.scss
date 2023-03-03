@@ -104,5 +104,11 @@
   flex: 0 0 50%;
   max-width: 50%;
 }
+.product-card__buy.fade {
+  opacity: 1;
+}
+.cart-item__prices, .minicart__summary, .cart__summary-row {
+  display: none !important;
+}
 
   
