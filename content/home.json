@@ -6,12 +6,6 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/fale-conosco.png",
-          "mobile_img": "/img/uploads/fale-conosco.png",
-          "link": "/",
-          "alt": ""
-        },
-        {
           "img": "/img/uploads/1.png",
           "mobile_img": "/img/uploads/1.png",
           "link": "/",
@@ -19,7 +13,13 @@
         },
         {
           "img": "/img/uploads/2.png",
-          "mobile_img": "/img/uploads/4.png",
+          "mobile_img": "/img/uploads/2.png",
+          "link": "/",
+          "alt": ""
+        },
+        {
+          "img": "/img/uploads/fale-conosco.png",
+          "mobile_img": "/img/uploads/fale-conosco.png",
           "link": "/",
           "alt": ""
         }
