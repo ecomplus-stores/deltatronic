@@ -39,13 +39,14 @@
 }
 .header__submenu {
     margin-top: .8rem !important;
-}
-.header__category:hover {
-    background: none !important;
     background: #9F3030;
     * {
       color: #D9D9D9 !important;
     }
+}
+.header__category:hover {
+    background: none !important;
+    border-bottom: none !important;
 }  
 @media(min-width: 767px) {
     #banner-secundario .banner:first-child {
