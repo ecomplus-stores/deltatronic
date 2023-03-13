@@ -42,7 +42,10 @@
 }
 .header__category:hover {
     background: none !important;
-    border-bottom: 2px solid #e00000 !important;
+    background: #9F3030;
+    * {
+      color: #D9D9D9 !important;
+    }
 }  
 @media(min-width: 767px) {
     #banner-secundario .banner:first-child {
