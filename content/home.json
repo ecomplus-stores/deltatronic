@@ -53,15 +53,9 @@
       "title": "Novidades | Quentinhas"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner-suporte.jpg",
-          "mobile_img": "/img/uploads/banner-suporte.jpg",
-          "link": "/",
-          "alt": ""
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-suporte.jpg",
+      "mobile_img": "/img/uploads/banner-suporte.jpg"
     },
     {
       "type": "collection-shelf",
