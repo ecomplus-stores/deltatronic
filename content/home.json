@@ -42,7 +42,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\">\n<span>Confira os posts mais recentes de  <b>nosso blog</b></span>\n</h4>"
+      "html": "<h4 class=\"products-carousel__title\">\n<span>Confira nossos  <b>produtos</b></span>\n</h4>"
     },
     {
       "type": "collection-shelf",
