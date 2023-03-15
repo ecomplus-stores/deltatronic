@@ -45,10 +45,6 @@
       "html": "<h4 class=\"products-carousel__title\">\n<span>Confira os posts mais recentes de  <b>nosso blog</b></span>\n</h4>"
     },
     {
-      "type": "blog",
-      "enabled": false
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
