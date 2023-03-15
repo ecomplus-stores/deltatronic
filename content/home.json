@@ -6,8 +6,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/1.png",
-          "mobile_img": "/img/uploads/1.png",
+          "img": "/img/uploads/5.png",
+          "mobile_img": "/img/uploads/5.png",
           "link": "/",
           "alt": ""
         },
@@ -60,20 +60,20 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/2.png",
-          "mobile_img": "/img/uploads/2.png",
-          "link": "/",
-          "alt": ""
-        },
-        {
-          "img": "/img/uploads/1.png",
-          "mobile_img": "/img/uploads/1.png",
+          "img": "/img/uploads/b-2-.png",
+          "mobile_img": "/img/uploads/b-2-.png",
           "link": "/",
           "alt": ""
         },
         {
           "img": "/img/uploads/b-1-.png",
           "mobile_img": "/img/uploads/b-1-.png",
+          "link": "/",
+          "alt": ""
+        },
+        {
+          "img": "/img/uploads/4.png",
+          "mobile_img": "/img/uploads/4.png",
           "link": "/",
           "alt": ""
         }
@@ -96,14 +96,14 @@
           "alt": ""
         },
         {
-          "img": "/img/uploads/b-2-.png",
-          "mobile_img": "/img/uploads/b-2-.png",
+          "img": "/img/uploads/5.png",
+          "mobile_img": "/img/uploads/5.png",
           "link": "/",
           "alt": ""
         },
         {
-          "img": "/img/uploads/b-4-.png",
-          "mobile_img": "/img/uploads/b-4-.png",
+          "img": "/img/uploads/4.png",
+          "mobile_img": "/img/uploads/4.png",
           "link": "/",
           "alt": ""
         },
@@ -114,14 +114,14 @@
           "alt": ""
         },
         {
-          "img": "/img/uploads/b-1-.png",
-          "mobile_img": "/img/uploads/b-1-.png",
+          "img": "/img/uploads/b-2-.png",
+          "mobile_img": "/img/uploads/b-2-.png",
           "link": "/",
           "alt": ""
         },
         {
-          "img": "/img/uploads/b-4-.png",
-          "mobile_img": "/img/uploads/b-4-.png",
+          "img": "/img/uploads/titulo.png",
+          "mobile_img": "/img/uploads/titulo.png",
           "link": "/",
           "alt": ""
         }
