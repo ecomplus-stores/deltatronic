@@ -190,3 +190,20 @@
     padding: 5px;
   }
 }
+
+@media(min-width: 767px) {
+  .header {
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-left: 0;
+    .header__container {
+      margin-bottom: 0;
+    }
+    #menu_desk {
+      margin-top: 10px;
+    }
+    .order-lg-last {
+      padding-right: 15px;
+    }
+  }
+}
