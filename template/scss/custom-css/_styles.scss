@@ -207,3 +207,9 @@
     }
   }
 }
+@media(min-width: 1300px) {
+  .header__submenu {
+    max-height: 600px;
+    margin-top: 0rem !important;
+  }
+}
