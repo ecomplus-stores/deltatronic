@@ -51,7 +51,8 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-suporte.jpg",
-      "mobile_img": "/img/uploads/banner-suporte.jpg"
+      "mobile_img": "/img/uploads/banner-suporte.jpg",
+      "link": "suportes"
     },
     {
       "type": "collection-shelf",
@@ -66,31 +67,31 @@
         {
           "img": "/img/uploads/12312312.png",
           "mobile_img": "/img/uploads/12312312.png",
-          "link": "/",
+          "link": "/videowall",
           "alt": ""
         },
         {
           "img": "/img/uploads/121233123w21.png",
           "mobile_img": "/img/uploads/121233123w21.png",
-          "link": "/",
+          "link": "/video-conferencia",
           "alt": ""
         },
         {
           "img": "/img/uploads/4.png",
           "mobile_img": "/img/uploads/4.png",
-          "link": "/",
+          "link": "/conversores-automacao",
           "alt": ""
         },
         {
           "img": "/img/uploads/b-3-.png",
           "mobile_img": "/img/uploads/b-3-.png",
-          "link": "/",
+          "link": "/ferramentastestadores",
           "alt": ""
         },
         {
           "img": "/img/uploads/b-2-.png",
           "mobile_img": "/img/uploads/b-2-.png",
-          "link": "/",
+          "link": "/firewall",
           "alt": ""
         },
         {
