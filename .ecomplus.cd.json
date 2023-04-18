@@ -1,5 +1,5 @@
 {
-  "trigger": "643ef1424bd2e929c1d5e755",
+  "trigger": "643ef1b34bd2e929c1d5e810",
   "resource": "products",
-  "slug": "10gbase-bxd-sfp-bidi-tx1330rx1270nm-40km-lc-ddm-transceptor-optico-miljet,10gbase-bxd-sfp-bidi-tx1330rx1270nm-20km-lc-ddm-transceptor-optico-miljet,10gbase-bxu-sfp-bidi-tx1270rx1330nm-40km-lc-ddm-transceptor-optico-miljet,10gbase-bxu-sfp-bidi-tx1270rx1330nm-20km-lc-ddm-transceptor-optico-miljet,10gbase-bxd-sfp-bidi-tx1330rx1270nm-10km-lc-ddm-transceptor-optico-miljet,10gbase-bxu-sfp-bidi-tx1270rx1330nm-10km-lc-ddm-transceptor-optico-miljet,10gbase-zr-sfp-1550nm-100km-smf-lc-ddm-duplex-transceptor-optico-miljet,10gbase-zr-sfp-1550nm-80km-smf-lc-ddm-duplex-transceptor-optico-miljet,10gbase-er-sfp-1550nm-40km-smf-lc-ddm-duplex-transceptor-optico-miljet,10gbase-lr-sfp-1310nm-20km-smf-lc-ddm-duplex-transceptor-optico-miljet,10gbase-lr-sfp-1310nm-10km-smf-lc-ddm-duplex-transceptor-optico-miljet"
+  "slug": "10gbase-sr-sfp-850nm-300m-mmf-lc-ddm-duplex-transceptor-optico-miljet,1000base-ezx-sfp-1550nm-160km-lc-smf-ddm-duplex-transceptor-optico-miljet"
 }
