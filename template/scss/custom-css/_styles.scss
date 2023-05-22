@@ -214,5 +214,10 @@
   }
 }
 #s-redes {
-   grid-template-columns: repeat(auto-fit,minmax(23%,1fr)) !important;
+  grid-template-columns: repeat(auto-fit,minmax(20%,1fr)) !important;
+}
+#s-redes div a:first-child {
+  color: #d9d9d9 !important;
+ font-size: 14px;
+ text-decoration: underline;
 }
