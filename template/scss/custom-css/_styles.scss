@@ -213,3 +213,6 @@
     margin-top: 0rem !important;
   }
 }
+#s-redes {
+   grid-template-columns: repeat(auto-fit,minmax(23%,1fr)) !important;
+}
