@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.0bc8b210b282b8a8a36dc9a7f3ed4d49.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.f968dad9e5e4f968c45860ba896f85bc.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.b0a60059ea279cd3ebb2b7fba6b36d7c.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.bdc687da5fc3b7b4478e50a864a9e046.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.771167485878263f7816ea6634616227.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Deltatronic Informática",
+  "short_name": "Deltatronic",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Horário de funcionamento: \n\nSeg a Sex: 8:30h - 12:30h / 14:00h - 18:30h\n\nSábados: 09:00h - 13:00h",
+  "background_color": "#848484",
+  "theme_color": "#000000"
+}
