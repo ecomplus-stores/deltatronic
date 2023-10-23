@@ -19,7 +19,7 @@
       "/telefonia?TELEFONIA",
       "/energia?ENERGIA"
     ],
-    "random": 6,
+    "random": 0,
     "full_width": true
   },
   "desktop_megamenu": true,
