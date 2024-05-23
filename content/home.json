@@ -7,7 +7,7 @@
       "banners": [
         {
           "img": "/img/uploads/banner-app.png",
-          "mobile_img": "/img/uploads/appliance-firewall.png",
+          "mobile_img": "/img/uploads/banner-app.png",
           "link": "/video-conferencia",
           "alt": ""
         },
