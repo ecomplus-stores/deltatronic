@@ -6,6 +6,9 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/1.jpg"
+        },
+        {
           "img": "/img/uploads/hdmi.png",
           "mobile_img": "/img/uploads/banner-app2.png",
           "link": "/ferramentastestadores",
@@ -16,9 +19,6 @@
           "mobile_img": "/img/uploads/fale-conosco.png",
           "link": "/",
           "alt": ""
-        },
-        {
-          "img": "/img/uploads/transmissor_wireless_ezcast_pocket_versao_usb_c_9_1_be72fc7221f7fd05c669b9da3b2bd784.webp"
         }
       ]
     },
