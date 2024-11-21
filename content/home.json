@@ -6,11 +6,11 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/apresentacao-de-briefing-do-projeto-minimalista-texturizado-verde-e-preto.jpg"
+          "img": "/img/uploads/1.jpg"
         },
         {
-          "img": "/img/uploads/hdmi.png",
-          "mobile_img": "/img/uploads/banner-app2.png",
+          "img": "/img/uploads/apresentacao-de-briefing-do-projeto-minimalista-texturizado-verde-e-preto.png",
+          "mobile_img": "/img/uploads/apresentacao-de-briefing-do-projeto-minimalista-texturizado-verde-e-preto.png",
           "link": "/ferramentastestadores",
           "alt": ""
         },
